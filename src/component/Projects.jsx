@@ -1,9 +1,9 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { FaGithub, FaLink } from 'react-icons/fa';
-import freshCartImage from '../assets/fresh-cart.png'; 
-import myportfolio from '../assets/my-portfolio.png'; 
-import crudphoto from '../assets/CRUD.png'; 
+import freshCartImage from '../assets/images/fresh-cart.png'; 
+import myportfolio from '../assets/images/my-portfolio.png'; 
+import crudphoto from '../assets/images/crud.png'; 
 
 const projectsData = [
   {
