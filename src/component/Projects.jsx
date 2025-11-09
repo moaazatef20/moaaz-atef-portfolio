@@ -9,7 +9,7 @@ const projectsData = [
   {
     title: 'E-commerce Website',
     description: 'A fully responsive e-commerce site built with React, Bootstrap, and using a FakeStore API for product data.',
-    image: freshCartImage, // 2. استخدم المتغير هنا
+    image: freshCartImage, 
     githubLink: 'https://github.com/moaazatef20/Fresh-Cart.git',
     liveLink: 'https://fresh-cart-eta-green.vercel.app/',
   },
@@ -17,7 +17,7 @@ const projectsData = [
     title: 'Personal Portfolio',
     description: 'The portfolio you are currently viewing. Built with React, React-Bootstrap, and EmailJS for the contact form.',
     image: myportfolio,
-    githubLink: 'https://github.com/moaazatef20/your-repo-2',
+    githubLink: 'https://github.com/moaazatef20/moaaz-atef-portfolio.gitgit',
     liveLink: '#',
   },
   {
